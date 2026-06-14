@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1080" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<style>text{font-family:Arial}</style>
+<rect width="1080" height="600" x="0" y="0" fill="rgb(238,238,238)"/>
+<rect width="1080" height="600" x="0" y="0" fill="rgb(255,255,255)"/>
+<text x="2" y="566" fill="rgb(0,0,0)" font-size="12">0</text>
+<text x="2" y="514" fill="rgb(0,0,0)" font-size="12">10</text>
+<text x="2" y="462" fill="rgb(0,0,0)" font-size="12">20</text>
+<text x="2" y="410" fill="rgb(0,0,0)" font-size="12">30</text>
+<text x="2" y="358" fill="rgb(0,0,0)" font-size="12">40</text>
+<text x="2" y="306" fill="rgb(0,0,0)" font-size="12">50</text>
+<text x="2" y="254" fill="rgb(0,0,0)" font-size="12">60</text>
+<text x="2" y="202" fill="rgb(0,0,0)" font-size="12">70</text>
+<text x="2" y="150" fill="rgb(0,0,0)" font-size="12">80</text>
+<text x="2" y="98" fill="rgb(0,0,0)" font-size="12">90</text>
+<text x="2" y="46" fill="rgb(0,0,0)" font-size="12">100</text>
+<text x="438" y="30" fill="rgb(0,0,0)" font-size="12">Sequence content across all bases</text>
+<line x1="29" y1="560" x2="1070" y2="560" stroke="rgb(0,0,0)" stroke-width="2"/>
+<line x1="29" y1="560" x2="29" y2="40" stroke="rgb(0,0,0)" stroke-width="2"/>
+<text x="476" y="595" fill="rgb(0,0,0)" font-size="12">Position in read (bp)</text>
+<text x="32" y="575" fill="rgb(0,0,0)" font-size="12">1</text>
+<rect width="14" height="520" x="43" y="40" fill="rgb(230,230,230)"/>
+<text x="46" y="575" fill="rgb(0,0,0)" font-size="12">2</text>
+<text x="60" y="575" fill="rgb(0,0,0)" font-size="12">3</text>
+<rect width="14" height="520" x="71" y="40" fill="rgb(230,230,230)"/>
+<text x="74" y="575" fill="rgb(0,0,0)" font-size="12">4</text>
+<text x="88" y="575" fill="rgb(0,0,0)" font-size="12">5</text>
+<rect width="14" height="520" x="99" y="40" fill="rgb(230,230,230)"/>
+<text x="102" y="575" fill="rgb(0,0,0)" font-size="12">6</text>
+<text x="116" y="575" fill="rgb(0,0,0)" font-size="12">7</text>
+<rect width="14" height="520" x="127" y="40" fill="rgb(230,230,230)"/>
+<text x="130" y="575" fill="rgb(0,0,0)" font-size="12">8</text>
+<text x="144" y="575" fill="rgb(0,0,0)" font-size="12">9</text>
+<rect width="14" height="520" x="155" y="40" fill="rgb(230,230,230)"/>
+<text x="158" y="575" fill="rgb(0,0,0)" font-size="12">20-29</text>
+<rect width="14" height="520" x="183" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="211" y="40" fill="rgb(230,230,230)"/>
+<text x="200" y="575" fill="rgb(0,0,0)" font-size="12">50-59</text>
+<rect width="14" height="520" x="239" y="40" fill="rgb(230,230,230)"/>
+<text x="242" y="575" fill="rgb(0,0,0)" font-size="12">80-89</text>
+<rect width="14" height="520" x="267" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="295" y="40" fill="rgb(230,230,230)"/>
+<text x="290" y="575" fill="rgb(0,0,0)" font-size="12">120-129</text>
+<rect width="14" height="520" x="323" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="351" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="379" y="40" fill="rgb(230,230,230)"/>
+<text x="360" y="575" fill="rgb(0,0,0)" font-size="12">170-179</text>
+<rect width="14" height="520" x="407" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="435" y="40" fill="rgb(230,230,230)"/>
+<text x="430" y="575" fill="rgb(0,0,0)" font-size="12">220-229</text>
+<rect width="14" height="520" x="463" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="491" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="519" y="40" fill="rgb(230,230,230)"/>
+<text x="500" y="575" fill="rgb(0,0,0)" font-size="12">270-279</text>
+<rect width="14" height="520" x="547" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="575" y="40" fill="rgb(230,230,230)"/>
+<text x="570" y="575" fill="rgb(0,0,0)" font-size="12">320-329</text>
+<rect width="14" height="520" x="603" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="631" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="659" y="40" fill="rgb(230,230,230)"/>
+<text x="640" y="575" fill="rgb(0,0,0)" font-size="12">370-379</text>
+<rect width="14" height="520" x="687" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="715" y="40" fill="rgb(230,230,230)"/>
+<text x="710" y="575" fill="rgb(0,0,0)" font-size="12">420-429</text>
+<rect width="14" height="520" x="743" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="771" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="799" y="40" fill="rgb(230,230,230)"/>
+<text x="780" y="575" fill="rgb(0,0,0)" font-size="12">470-479</text>
+<rect width="14" height="520" x="827" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="855" y="40" fill="rgb(230,230,230)"/>
+<text x="850" y="575" fill="rgb(0,0,0)" font-size="12">520-529</text>
+<rect width="14" height="520" x="883" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="911" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="939" y="40" fill="rgb(230,230,230)"/>
+<text x="920" y="575" fill="rgb(0,0,0)" font-size="12">570-579</text>
+<rect width="14" height="520" x="967" y="40" fill="rgb(230,230,230)"/>
+<rect width="14" height="520" x="995" y="40" fill="rgb(230,230,230)"/>
+<text x="990" y="575" fill="rgb(0,0,0)" font-size="12">620-629</text>
+<rect width="14" height="520" x="1023" y="40" fill="rgb(230,230,230)"/>
+<line x1="29" y1="560" x2="1070" y2="560" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="508" x2="1070" y2="508" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="456" x2="1070" y2="456" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="404" x2="1070" y2="404" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="352" x2="1070" y2="352" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="300" x2="1070" y2="300" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="248" x2="1070" y2="248" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="196" x2="1070" y2="196" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="144" x2="1070" y2="144" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="92" x2="1070" y2="92" stroke="rgb(180,180,180)" stroke-width="2"/>
+<line x1="29" y1="40" x2="1070" y2="40" stroke="rgb(180,180,180)" stroke-width="2"/>
+<polyline points="36,440 50,374 64,391 78,395 92,396 106,392 120,396 134,391 148,390 162,396 176,397 190,396 204,396 218,396 232,396 246,396 260,396 274,396 288,396 302,396 316,396 330,396 344,396 358,396 372,396 386,396 400,396 414,396 428,396 442,396 456,396 470,396 484,396 498,396 512,397 526,396 540,397 554,397 568,397 582,397 596,397 610,398 624,398 638,398 652,398 666,398 680,398 694,399 708,400 722,399 736,400 750,400 764,401 778,402 792,402 806,402 820,403 834,401 848,400 862,398 876,396 890,390 904,388 918,382 932,385 946,389 960,368 974,370 988,396 1002,367 1016,482 1030,300" stroke="rgb(136,34,85)" stroke-width="2" fill="none"/>
+<polyline points="36,483 50,484 64,466 78,466 92,467 106,467 120,469 134,463 148,464 162,464 176,464 190,464 204,465 218,465 232,465 246,464 260,465 274,464 288,465 302,464 316,465 330,464 344,464 358,464 372,464 386,464 400,464 414,464 428,464 442,464 456,464 470,464 484,464 498,464 512,463 526,463 540,463 554,463 568,463 582,463 596,462 610,462 624,462 638,461 652,461 666,461 680,460 694,460 708,459 722,459 736,458 750,458 764,457 778,456 792,455 806,456 820,455 834,455 848,456 862,457 876,460 890,463 904,467 918,469 932,469 946,468 960,476 974,468 988,465 1002,546 1016,508 1030,560" stroke="rgb(51,34,136)" stroke-width="2" fill="none"/>
+<polyline points="36,342 50,395 64,394 78,396 92,395 106,398 120,395 134,400 148,402 162,398 176,397 190,397 204,396 218,396 232,396 246,396 260,396 274,396 288,396 302,396 316,396 330,396 344,397 358,397 372,397 386,397 400,397 414,397 428,397 442,397 456,397 470,397 484,398 498,397 512,398 526,398 540,398 554,398 568,399 582,398 596,399 610,399 624,399 638,399 652,400 666,400 680,401 694,402 708,402 722,403 736,403 750,404 764,406 778,406 792,406 806,407 820,406 834,408 848,406 862,405 876,404 890,401 904,397 918,396 932,400 946,392 960,392 974,411 988,355 1002,308 1016,196 1030,300" stroke="rgb(17,119,51)" stroke-width="2" fill="none"/>
+<polyline points="36,457 50,469 64,472 78,465 92,464 106,465 120,463 134,467 148,466 162,464 176,464 190,465 204,465 218,465 232,465 246,465 260,465 274,465 288,465 302,465 316,465 330,465 344,465 358,465 372,465 386,465 400,465 414,465 428,465 442,465 456,465 470,464 484,465 498,465 512,464 526,464 540,464 554,464 568,464 582,464 596,464 610,464 624,463 638,463 652,463 666,463 680,462 694,462 708,461 722,461 736,460 750,460 764,458 778,458 792,458 806,457 820,458 834,458 848,460 862,462 876,463 890,468 904,470 918,475 932,468 946,474 960,485 974,474 988,506 1002,501 1016,534 1030,560" stroke="rgb(221,204,119)" stroke-width="2" fill="none"/>
+<rect width="28" height="83" x="1042" y="40" fill="rgb(255,255,255)"/>
+<rect width="28" height="83" x="1042" y="40" rx="0" ry="0" fill="none" stroke="rgb(192,192,192)"/>
+<text x="1045" y="55" fill="rgb(136,34,85)" font-size="12" font-weight="bold">%T</text>
+<text x="1045" y="75" fill="rgb(51,34,136)" font-size="12" font-weight="bold">%C</text>
+<text x="1045" y="95" fill="rgb(17,119,51)" font-size="12" font-weight="bold">%A</text>
+<text x="1045" y="115" fill="rgb(221,204,119)" font-size="12" font-weight="bold">%G</text>
+</svg>

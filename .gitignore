@@ -38,3 +38,7 @@ test/integration/output
 
 # ApprovalTests generated files
 *.received.*
+
+ERR598952_1.fastq
+
+ERR598952_1.fastq.gz

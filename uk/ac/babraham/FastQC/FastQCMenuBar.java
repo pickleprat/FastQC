@@ -34,6 +34,7 @@ import javax.swing.JOptionPane;
 import javax.swing.KeyStroke;
 
 import uk.ac.babraham.FastQC.Dialogs.AboutDialog;
+import uk.ac.babraham.FastQC.Dialogs.PhredScoreDialog;
 import uk.ac.babraham.FastQC.Help.HelpDialog;
 
 public class FastQCMenuBar extends JMenuBar implements ActionListener {
@@ -88,7 +89,18 @@ public class FastQCMenuBar extends JMenuBar implements ActionListener {
 		fileMenu.add(fileExit);
 		
 		add(fileMenu);
-		
+
+		JMenu toolsMenu = new JMenu("Tools");
+		toolsMenu.setMnemonic(KeyEvent.VK_T);
+
+		JMenuItem phredDecoder = new JMenuItem("Phred Score Decoder...");
+		phredDecoder.setMnemonic(KeyEvent.VK_P);
+		phredDecoder.setActionCommand("phred_decoder");
+		phredDecoder.addActionListener(this);
+		toolsMenu.add(phredDecoder);
+
+		add(toolsMenu);
+
 		JMenu helpMenu = new JMenu("Help");
 		helpMenu.setMnemonic(KeyEvent.VK_H);
 		
@@ -140,6 +152,9 @@ public class FastQCMenuBar extends JMenuBar implements ActionListener {
 		}
 		else if (command.equals("about")) {
 			new AboutDialog(application);
+		}
+		else if (command.equals("phred_decoder")) {
+			new PhredScoreDialog(application);
 		}
 		else {
 			JOptionPane.showMessageDialog(application, "Unknown menu command "+command, "Unknown command", JOptionPane.ERROR_MESSAGE);
