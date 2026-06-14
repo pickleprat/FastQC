@@ -96,7 +96,7 @@ public class PhredScorePanel extends JPanel implements ActionListener {
 		topPanel.add(inputPanel, BorderLayout.SOUTH);
 		add(topPanel, BorderLayout.NORTH);
 
-		String[] columns = {"Position", "Character", "ASCII Value", "Q Score", "P_error"};
+		String[] columns = {"Position", "Character", "ASCII Value", "Q Score / Phred Score", "P_error"};
 		tableModel = new DefaultTableModel(columns, 0) {
 			@Override
 			public boolean isCellEditable(int row, int col) { return false; }
